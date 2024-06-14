@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"org.hkilang.tts","sha256_cert_fingerprints":["C9:0E:45:7E:93:1F:5F:38:F6:E8:D7:B8:C4:AD:72:7C:D1:B4:13:B9:57:4B:57:8D:E9:FF:26:9C:E9:5B:05:67"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"org.hkilang.tts","sha256_cert_fingerprints":["89:72:85:DF:CA:81:5F:F2:5C:4D:BF:8C:2B:1B:80:51:F8:80:2B:02:DB:E9:D0:85:EA:B3:FA:4E:FC:72:2F:75"]}}]
